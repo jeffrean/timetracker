@@ -1,0 +1,14 @@
+{
+  "name": "timetracker_desktop_client",
+  "version": "1.0.0",
+  "description": "Timetracker Desktop Client Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeffrey Nagel",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
